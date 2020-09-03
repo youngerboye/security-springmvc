@@ -1,0 +1,6 @@
+com\young\security\springmvc\service\AuthenticationService.class
+com\young\security\springmvc\init\SpringApplication.class
+com\young\security\springmvc\model\AuthenticationRequest.class
+com\young\security\springmvc\config\ApplicationConfig.class
+com\young\security\springmvc\model\UserDto.class
+com\young\security\springmvc\config\WebConfig.class
